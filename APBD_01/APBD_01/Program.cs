@@ -2,9 +2,9 @@
 
 namespace APBD_01
 {
-    internal class Main
+    internal class Program
     {
-        public static void main(String[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("C# Initial Project");
         }
